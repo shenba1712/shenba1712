@@ -71,11 +71,16 @@ Here are some of my public projects.
 - [**net-price-calculator**](https://github.com/shenba1712/net-price-calculator)  
   <sub>A simple calculator to compute net price after VAT based on country code.</sub>
 
+- [**Morse Code Generator**](https://github.com/shenba1712/morse-code-generator)
+  <sub>A simple app to generate and decode Morse Codes.</sub>
+  <sub>https://shenba1712.github.io/morse-code-generator/text-to-morsecode</sub>
+
 - [**covid-tracker**](https://github.com/shenba1712/covid-tracker)  
   <sub>Web app that graphically displays COVID trends across the world.</sub>
 
 - [**youtube-recommendation**](https://github.com/shenba1712/youtube-recommendation)  
   <sub>A simple recommendation system for YouTube videos based on search queries.</sub>
+  <sub>https://shenba1712.github.io/youtube-recommendation/</sub>
 
 ---
 
