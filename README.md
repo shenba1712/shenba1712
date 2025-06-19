@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Shenbaga Lakshmi Srinivasan</h1>
-<h3 align="center">Senior Software Engineer | Java | Angular | Node.js | Travel Enthusiast</h3>
+<h3 align="center">Software Engineer | Java | Angular | Node.js | Travel Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shenbaga-lakshmi-srinivasan/" target="_blank">
