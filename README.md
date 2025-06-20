@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Shenbaga Lakshmi Srinivasan</h1>
+<h1 align="center">Hi there 👋, I'm Shenba</h1>
 <h3 align="center">Software Engineer | Java | Angular | Node.js | Travel Enthusiast</h3>
 
 <p align="center">
@@ -17,11 +17,13 @@
 
 ### 🚀 About Me
 
-- 🎯 **Senior Software Engineer** with 8+ years of experience, passionate about designing and building scalable web applications with Java, Angular, and Node.js.
-- 🌱 **Relentless learner**: Always exploring new technologies, architectures, and best practices to stay at the forefront of software development.
+Hi, I’m Shenba. I am a software developer who speaks Java, NodeJS, and Angular. But my 6–10 passion is writing. I’m currently in Munich, enjoying my morning pepper pretzels.
+
+- 🎯 **Senior Software Engineer** with 8+ years of experience, passionate about designing and building scalable web applications.
+- 🌱 **Relentless learner**: I love exploring new technologies, architectures, and best practices to stay at the forefront of software development.
 - 💡 **Problem solver**: I thrive on tackling complex challenges and turning ideas into robust, elegant code.
-- 🌍 **Globetrotter**: Traveling inspires my creativity, adaptability, and drive—bringing a global perspective to everything I build.
-- ✍️ **Tech storyteller**: I share insights and tutorials on [Medium](https://medium.com/@shenbagalakshmi), and enjoy mentoring and collaborating with fellow developers.
+- 🌍 **Globetrotter**: Traveling inspires my creativity, adaptability, and drive—bringing a global perspective to everything I build. I like making small travel goals. I had my own “30 under 30” list that I recently completed.
+- ✍️ **Storyteller**: I share insights and tutorials on [Medium](https://medium.com/@shenbagalakshmi), and enjoy mentoring and collaborating with fellow developers.
 - 🤝 **Open for collaboration**: Let's connect and create something amazing!
 
 ---
