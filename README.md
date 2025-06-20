@@ -73,8 +73,8 @@ Here are some of my public projects.
 
 - [**Morse Code Generator**](https://github.com/shenba1712/morse-code-generator)
   <sub>A simple app to generate and decode Morse Codes.</sub>
-  <sub>https://shenba1712.github.io/morse-code-generator/text-to-morsecode</sub>
-
+  <sub>https://shenba1712.github.io/morse-code-generator</sub>
+  
 - [**covid-tracker**](https://github.com/shenba1712/covid-tracker)  
   <sub>Web app that graphically displays COVID trends across the world.</sub>
 
