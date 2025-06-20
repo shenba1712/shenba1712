@@ -40,7 +40,7 @@ Hi, I’m Shenba. I am a software developer who speaks Java, NodeJS, and Angular
 - [5 Light-Hearted Stories From Denmark You Will Probably Not Find in History Books](https://shenbagalakshmi.medium.com/5-light-hearted-stories-from-denmark-you-will-probably-not-find-in-history-books-67317c06f84d)
 - [I Met a Bestselling Author, and She Gave Me Some Solid Content Creation Advice](https://medium.com/swlh/i-met-a-bestselling-author-and-she-gave-me-some-solid-content-creation-advice-dead6aeb83f6)
 
-> 👉 [See all articles on Medium](https://medium.com/@shenbagalakshmi)
+> 👉 [See all articles on Medium]([https://medium.com/@shenbagalakshmi](https://github-readme-medium.vercel.app/?username=shenba1712)](https://medium.com/@shenbagalakshmi))
 
 ---
 
