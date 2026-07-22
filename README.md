@@ -63,8 +63,8 @@ More across Medium and other engineering publications at [medium.com/@shenbagala
 
 Smaller things I built to learn a tool or scratch an itch:
 
-- **[YouTube recommender](https://shenba1712.github.io/youtube-recommendation/)** (live): ranks search results by views, like ratio, and recency instead of relevance alone. Angular.
-- **[Morse code generator](https://shenba1712.github.io/morse-code-generator/)** (live): text to Morse and back, with WebAudio playback. Angular.
+- **[YouTube recommender](https://shenba1712.github.io/youtube-recommendation/)** (live): ranks search results by views, like ratio, and recency instead of relevance alone. Angular. ([Github](https://github.com/shenba1712/youtube-recommendation/))
+- **[Morse code generator](https://shenba1712.github.io/morse-code-generator/)** (live): text to Morse and back, with WebAudio playback. Angular. ([Github](https://github.com/shenba1712/morse-code-generator))
 - **[wctool](https://github.com/shenba1712/wctool)**: a from-scratch `wc` in Java, compiled to a native binary with GraalVM.
 - **[JSONParser](https://github.com/shenba1712/JSONParser)**: a hand-written tokenizer and AST parser that validates JSON. Java.
 
