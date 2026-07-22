@@ -21,7 +21,7 @@ Built in strict TypeScript with a framework-free core and a Next.js dashboard. P
 
 ---
 
-## Shipped: [Context Compiler](https://github.com/shenba1712/context-compiler)
+## [Context Compiler](https://github.com/shenba1712/context-compiler)
 
 [![tests](https://github.com/shenba1712/context-compiler/actions/workflows/test.yml/badge.svg)](https://github.com/shenba1712/context-compiler/actions/workflows/test.yml)
 
