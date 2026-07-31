@@ -53,10 +53,10 @@ My longest thread is a system-design series that builds a real URL shortener fro
 ### Recently published
 
 <!-- BLOG-POST-LIST:START -->
+- [Your URL Shortener Need Not Host Anything To Get Blocked](https://code.likeagirl.io/url-shortener-abuse-prevention-domain-reputation-9aef75c5d847?source=rss-8147a3c4eba1------2)
 - [A URL Shortener That Only Counts Clicks Isn’t Doing Analytics](https://code.likeagirl.io/url-shortener-analytics-system-design-29c450606c23?source=rss-8147a3c4eba1------2)
 - [Counting Clicks In Your URL Shortener Will Change Six Things You Didn’t Expect](https://code.likeagirl.io/url-shortener-click-tracking-analytics-design-abaecbbe5026?source=rss-8147a3c4eba1------2)
 - [Adding Custom Domains Will Change Your Entire URL Shortener Design](https://code.likeagirl.io/custom-domains-url-shortener-5dba18bc2238?source=rss-8147a3c4eba1------2)
-- [Why Private Links Fundamentally Change Your URL Shortener Design](https://code.likeagirl.io/why-private-links-change-url-shortener-design-fa30966d202a?source=rss-8147a3c4eba1------2)
 <!-- BLOG-POST-LIST:END -->
 
 More across Medium and other engineering publications at [medium.com/@shenbagalakshmi](https://medium.com/@shenbagalakshmi).
